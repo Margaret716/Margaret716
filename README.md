@@ -36,7 +36,5 @@ In projects and initiatives, I take the lead, actively driving progress and ensu
 Furthermore, my charismatic nature enables me to connect with individuals, fostering collaboration and creating a positive team dynamic. I excel at building strong relationships based on trust, respect, and effective communication, allowing me to rally teammates towards a common goal.
 
 <br /><br />
-<## I am using>
-<br /><br />
 
 
