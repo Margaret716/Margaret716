@@ -2,6 +2,7 @@
 
 # <div align="center"> Hi, I'm Margaret, welcome 👋</div> 
 
+<br />
 
 - 🌱 coding mostly in C++ and Python
 
