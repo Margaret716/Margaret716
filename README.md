@@ -4,11 +4,13 @@
 
 <br />
 
+- 🔓 CTF enjoyer
+
 - 🌱 coding mostly in C++ and Python
 
 - 🔭 currently working on Cisco and CompTIA extra courses
 
-- 💬 in the future I want to focus on reverse engineering, where my analytical disposition and conscientiousness find the right place!
+- 💬 in the future I want to focus on networks, where my analytical disposition and conscientiousness find the right place!
 
 - ⚡ Studying in Wrocław [University of Science and Technology](https://pwr.edu.pl/en/) majoring in Cybersecurity
 
